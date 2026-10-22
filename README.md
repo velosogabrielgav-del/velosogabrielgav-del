@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Gabriel
 
-<!--
-**velosogabrielgav-del/velosogabrielgav-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP e bacharel em Ciência da Computação pela UNAMA. Hoje sou estagiário de TI na PRODEPA e estou me preparando para atuar como desenvolvedor backend Java.
 
-Here are some ideas to get you started:
+## O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java e programação orientada a objetos
+- Git e GitHub
+- Acesso a banco de dados com JDBC e Oracle (projeto acadêmico em grupo na FIAP)
+- Próximos passos: APIs, bancos de dados, cloud e inteligência artificial
+
+## Projeto em andamento
+
+- [fintech-dao](https://github.com/velosogabrielgav-del/fintech-dao): camada de acesso a dados (padrão DAO) de um sistema de finanças pessoais, em Java com JDBC e Oracle. Projeto acadêmico em grupo da FIAP, ainda em desenvolvimento.
+
+## Contato
+
+- LinkedIn: [gabriel-andradeteixeira](https://www.linkedin.com/in/gabriel-andradeteixeira/)
