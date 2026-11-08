@@ -1,17 +1,18 @@
-# Olá, sou o Gabriel
+# Olá, eu sou o Gabriel 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP e bacharel em Ciência da Computação pela UNAMA. Hoje sou estagiário de TI na PRODEPA e estou me preparando para atuar como desenvolvedor backend Java.
+Bacharel em Ciência da Computação (UNAMA) e aluno de Análise e Desenvolvimento de Sistemas (FIAP), de Belém (PA). Estagiário de TI na PRODEPA, buscando atuar com **desenvolvimento backend em Java**.
 
 ## O que estou estudando
 
-- Java e programação orientada a objetos
+- Java e orientação a objetos (curso da Alura concluído)
+- Acesso a banco de dados com JDBC e Oracle
 - Git e GitHub
-- Acesso a banco de dados com JDBC e Oracle (projeto acadêmico em grupo na FIAP)
-- Próximos passos: APIs, bancos de dados, cloud e inteligência artificial
+- Próximos passos: listas e coleções, consumo de APIs e Spring Boot
 
-## Projeto em andamento
+## Projetos
 
-- [fintech-dao](https://github.com/velosogabrielgav-del/fintech-dao): camada de acesso a dados (padrão DAO) de um sistema de finanças pessoais, em Java com JDBC e Oracle. Projeto acadêmico em grupo da FIAP, ainda em desenvolvimento.
+- [Estudos](https://github.com/velosogabrielgav-del/Estudos): exercícios de Java feitos no IntelliJ, organizados por pasta
+- [fintech-dao](https://github.com/velosogabrielgav-del/fintech-dao): camada de acesso a dados (padrão DAO) de um sistema de finanças pessoais, em Java com JDBC e Oracle. Projeto acadêmico da FIAP, desenvolvido por mim, individualmente
 
 ## Contato
 
